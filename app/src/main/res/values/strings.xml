@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">寶寶監視器</string>
+    <string name="switch1">切換畫面</string>
+    <string name="button3">刷新畫面</string>
+    <string name="OFF">關</string>
+    <string name="ON">開</string>
+</resources>
